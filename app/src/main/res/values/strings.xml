@@ -3,4 +3,7 @@
     <string name="todayFormat">EEEE, MMMM d</string>
     <string name="description">Touch each hour to plan a task</string>
     <string name="hint_title_task">Touch to add task...</string>
+    <string name="label_text_title">Title</string>
+    <string name="label_text_start_time">Start Time</string>
+    <string name="label_text_end_time">End Time</string>
 </resources>
